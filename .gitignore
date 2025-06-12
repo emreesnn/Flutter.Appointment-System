@@ -1,0 +1,84 @@
+# ------------------------------
+# FLUTTER
+# ------------------------------
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+*.lock
+*.log
+*.tmp
+*.swp
+*.iml
+
+# IDEs
+.idea/
+.vscode/
+*.ipr
+*.iws
+*.bak
+
+# OS files
+.DS_Store
+*.class
+
+# Flutter specific
+generated_plugin_registrant.dart
+.dart_tool/
+.flutter-*
+coverage/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+
+# Env files (Flutter may not have one by default, but safe to ignore any)
+flutter.env
+.env
+.env.*
+
+# ------------------------------
+# LARAVEL
+# ------------------------------
+/vendor/
+node_modules/
+public/storage
+storage/*.key
+.env
+.env.*
+Homestead.yaml
+Homestead.json
+npm-debug.log
+yarn-error.log
+
+# Laravel IDE helper
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+
+# Cache
+bootstrap/cache/
+
+# ------------------------------
+# STRAPI
+# ------------------------------
+.cache/
+build/
+node_modules/
+.env
+.env.*
+/dist
+*.db
+
+# VS Code settings (global)
+.vscode/
+.history/
+*.code-workspace
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
