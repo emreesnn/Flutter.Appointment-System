@@ -51,6 +51,10 @@ Bu proje, randevu yönetimi amacıyla Flutter, Laravel ve Strapi teknolojilerini
 
 ---
 
+- `Not: Screenshots klasöründen ekran görüntülerine bakabilirsiniz.`
+
+---
+
 ## ⚙️ Kurulum
 
 ### 1. Strapi
